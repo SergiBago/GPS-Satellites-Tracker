@@ -7,3 +7,4 @@ We can get the position of each satellite in a period between now and the next h
 
 To choose which satellite we want the complete orbit of, we must open the Main.m file and change the pos parameter, choosing the number of satellite we want.
 
+![GitHub Logo](https://github.com/SergiBago/GPS-Satellites-Tracker/blob/master/Images/Captura.PNG)
